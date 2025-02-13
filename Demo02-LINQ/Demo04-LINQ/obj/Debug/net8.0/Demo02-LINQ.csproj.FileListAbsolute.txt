@@ -1,0 +1,14 @@
+D:\Demo02-LINQ\Demo04-LINQ\bin\Debug\net8.0\Demo02-LINQ.exe
+D:\Demo02-LINQ\Demo04-LINQ\bin\Debug\net8.0\Demo02-LINQ.deps.json
+D:\Demo02-LINQ\Demo04-LINQ\bin\Debug\net8.0\Demo02-LINQ.runtimeconfig.json
+D:\Demo02-LINQ\Demo04-LINQ\bin\Debug\net8.0\Demo02-LINQ.dll
+D:\Demo02-LINQ\Demo04-LINQ\bin\Debug\net8.0\Demo02-LINQ.pdb
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\Demo02-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\Demo02-LINQ.AssemblyInfoInputs.cache
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\Demo02-LINQ.AssemblyInfo.cs
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\Demo02-LINQ.csproj.CoreCompileInputs.cache
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\Demo02-LINQ.dll
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\refint\Demo02-LINQ.dll
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\Demo02-LINQ.pdb
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\Demo02-LINQ.genruntimeconfig.cache
+D:\Demo02-LINQ\Demo04-LINQ\obj\Debug\net8.0\ref\Demo02-LINQ.dll
