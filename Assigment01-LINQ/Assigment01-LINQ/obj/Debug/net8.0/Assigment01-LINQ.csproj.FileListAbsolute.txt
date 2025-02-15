@@ -1,0 +1,14 @@
+D:\Assigment01-LINQ\Assigment01-LINQ\bin\Debug\net8.0\Assigment01-LINQ.exe
+D:\Assigment01-LINQ\Assigment01-LINQ\bin\Debug\net8.0\Assigment01-LINQ.deps.json
+D:\Assigment01-LINQ\Assigment01-LINQ\bin\Debug\net8.0\Assigment01-LINQ.runtimeconfig.json
+D:\Assigment01-LINQ\Assigment01-LINQ\bin\Debug\net8.0\Assigment01-LINQ.dll
+D:\Assigment01-LINQ\Assigment01-LINQ\bin\Debug\net8.0\Assigment01-LINQ.pdb
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\Assigment01-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\Assigment01-LINQ.AssemblyInfoInputs.cache
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\Assigment01-LINQ.AssemblyInfo.cs
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\Assigment01-LINQ.csproj.CoreCompileInputs.cache
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\Assigment01-LINQ.dll
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\refint\Assigment01-LINQ.dll
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\Assigment01-LINQ.pdb
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\Assigment01-LINQ.genruntimeconfig.cache
+D:\Assigment01-LINQ\Assigment01-LINQ\obj\Debug\net8.0\ref\Assigment01-LINQ.dll
